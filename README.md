@@ -1,4 +1,4 @@
-# Mathematix
+# Mathemaxics
 
 ### Plan
 
